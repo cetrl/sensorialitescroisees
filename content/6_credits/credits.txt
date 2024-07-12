@@ -1,0 +1,3 @@
+Title: crédits
+----
+Images: 'logo.png'
